@@ -31,7 +31,7 @@ Now you need to clone this repository in your workspace:
 You need first to clone the repo with the command below
 
 ```
-$ git clone https://github.com/miguelgonrod/pepperGPT.git
+$ git clone https://github.com/dece13/JuegoReconocimientoFacial.git
 $ python3 .py
 ```
 If you are getting a module importing error check the version of your libraries.
