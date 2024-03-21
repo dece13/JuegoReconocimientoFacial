@@ -17,9 +17,11 @@ still in progress
 
 ## Technologies
 This project is created with:
-* python: 3.9.12
+* python: 3.8.10
 * cv2
-* pygame
+* pygame: 2.5.2
+* Mediapipe: 0.10.11
+* Matplotlib: 3.7.5
 
 ## Setup
 To run this project you need to install these dependencies:
@@ -32,7 +34,8 @@ You need first to clone the repo with the command below
 
 ```
 $ git clone https://github.com/dece13/JuegoReconocimientoFacial.git
-$ python3 .py
+$ pip install mediapipe
+$ python game.py
 ```
 If you are getting a module importing error check the version of your libraries.
 ## Licence
