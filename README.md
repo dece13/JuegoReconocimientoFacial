@@ -13,7 +13,11 @@ I made this project because I saw an video in Youtube about this topic, and I wa
 
 ## Demostration
 
-still in progress
+
+
+https://github.com/dece13/JuegoReconocimientoFacial/assets/63326570/8ea186a2-2289-4249-b8d3-ba518e360884
+
+
 
 ## Technologies
 This project is created with:
@@ -25,8 +29,6 @@ This project is created with:
 
 ## Setup
 To run this project you need to install these dependencies:
-
-still in progress
 
 Now you need to clone this repository in your workspace:
 
